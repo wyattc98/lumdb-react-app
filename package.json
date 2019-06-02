@@ -2,7 +2,7 @@
   "name": "lumdb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wyattc98.github.io/lumdb-react-app/",
+  "homepage": "https://wyattc98.github.io/",
   "dependencies": {
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-react": "^7.13.0",
