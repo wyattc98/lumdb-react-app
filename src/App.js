@@ -16,7 +16,7 @@ const App = () => (
         </Link>
       </header>
       <Switch>
-        <Route exact path="/" component={MoviesList} />
+        <Route exact path="/lumdb-react-app" component={MoviesList} />
         <Route path="/:id" component={MovieDetail} />
       </Switch>
     </div>
